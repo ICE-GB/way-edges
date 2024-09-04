@@ -2,3 +2,6 @@
 
 .neoconf.json
 config/.prettierrc
+
+.direnv
+result
